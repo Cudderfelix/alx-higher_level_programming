@@ -1,4 +1,4 @@
-#usr/bin/python3
+#!/usr/bin/python3
 
 """ Function that removes all C and C from String """
 
