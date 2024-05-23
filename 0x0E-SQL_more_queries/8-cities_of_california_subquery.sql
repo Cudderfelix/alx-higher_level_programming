@@ -5,4 +5,5 @@ SELECT id, name FROM cities WHERE state_id = (
 	select id
 	FROM states
 	WHERE name='California'
-) ORDER By cities.id ASC;
+)
+ORDER By cities.id ASC;
